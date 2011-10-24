@@ -24,7 +24,7 @@ public class songsel extends BackgroundPanel implements ActionListener {
 		cart.setContentAreaFilled(false);
 		cart.setBorder(null);
 		JLabel name=new JLabel(s);
-		JButton play=new JButton(new ImageIcon("D:/playy.png"));
+		JButton play=new JButton(new ImageIcon("D:/images/playy.png"));
 		play.setContentAreaFilled(false);
 		play.setBorder(null);
 		info=new JButton(new ImageIcon("D:/images/imfo.png"));
